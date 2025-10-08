@@ -1,5 +1,5 @@
 <script setup>
-    import { ref } from 'vue';
+    import { ref, watch, onUnmounted } from 'vue';
     import ProductCard from './ProductCard.vue';
     import ProductModal from './ProductModal.vue';
     import productData from '../data/products.json';
@@ -13,6 +13,18 @@
     function closeModal() {
         selectedProduct.value = null;
     }
+
+    watch(selectedProduct, (newValue) => {
+    if (newValue) {
+        document.body.classList.add('overflow-hidden');
+    } else {
+        document.body.classList.remove('overflow-hidden');
+    }
+    });
+
+    onUnmounted(() => {
+        document.body.classList.remove('overflow-hidden');
+    });
 </script>
 
 <template>
