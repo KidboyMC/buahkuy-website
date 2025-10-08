@@ -1,0 +1,22 @@
+[
+    {
+        "title": "Buah Segar Pilihan",
+        "description": "Kami hanya menggunakan buah segar berkualitas tinggi.",
+        "image": "/img/features/feature1.png"
+    },
+    {
+        "title": "Kemasan Praktis & Menarik",
+        "description": "Dikemas dalam botol yang mudah dibawa ke mana pun.",
+        "image": "/img/features/feature2.png"
+    },
+    {
+        "title": "Tanpa Bahan Kimia Tambahan",
+        "description": "Minuman kami 100% alami tanpa pengawet atau pemanis buatan.",
+        "image": "/img/features/feature3.png"
+    },
+    {
+        "title": "Rasa yang Bervariasi",
+        "description": "Banyak pilihan rasa unik yang bisa kamu pilih sesuai selera.",
+        "image": "/img/features/feature4.jpg"
+    }
+]

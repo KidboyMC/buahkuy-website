@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "name": "Lemonaire - Lemonade", 
+        "price": "IDR 10.000",
+        "description": "Segarnya perasan lemon asli tanpa bahan kimia tambahan. Rasa asam-manisnya nyegerin banget, cocok buat ngilangin haus dan lelah seharian!", 
+        "image": "/img/product/lemonade.jpg"
+    },
+    { 
+        "id": 2,
+        "name": "AvoMelt - Avocado Smoothie", 
+        "price": "IDR 10.000",
+        "description": "Kelezatan alpukat asli berpadu tekstur lembut yang mengenyangkan. Pilihan pas buat pengganti sarapan atau temen santai sore!", 
+        "image": "/img/product/avocado.jpg"
+    },
+    { 
+        "id": 3,
+        "name": "Orange Pop - Orange Juice", 
+        "price": "IDR 8.000",
+        "description": "Jus jeruk segar dengan rasa manis alami. Bikin semangat balik lagi dan bantu jaga daya tahan tubuh dengan vitamin C tinggi!", 
+        "image": "/img/product/orange.jpg"
+    },
+    { 
+        "id": 4,
+        "name": "Mango Rush - Mango Smoothie", 
+        "price": "IDR 8.000",
+        "description": "Smoothie mangga creamy dengan rasa manis segar alami. Bikin hari makin cerah dan cocok diminum kapan aja!", 
+        "image": "/img/product/mango.jpg"
+    }
+]
